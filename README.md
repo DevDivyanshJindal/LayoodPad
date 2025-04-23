@@ -1,6 +1,7 @@
 # 🌐 LayoodPad
 
-> Effortless real-time note sharing with encryption, code formatting, and zero clutter.
+> ![canvas](https://user-images.githubusercontent.com/your-canvas-image.gif)
+> **Effortless real-time note sharing with encryption, code formatting, and zero clutter.**
 
 ---
 
@@ -68,7 +69,7 @@
 
 ## 👨‍💻 Made By
 
-### ✨ Divyansh Jindal — *Developer & Creator of LayoodPad* ✨
+### ✨ Divyansh Jindal — *Coder & Creator of LayoodPad* ✨
 
 > Connect with me: [LinkedIn](https://www.linkedin.com/in/divyanshjindal) | [GitHub](https://github.com/divyanshjindal)
 
