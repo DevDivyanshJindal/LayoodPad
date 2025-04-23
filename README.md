@@ -94,7 +94,7 @@
 
 ### ✨ Divyansh Jindal — *Coder & Creator of LayoodPad* ✨
 
-> Connect with me: [LinkedIn](https://www.linkedin.com/in/divyanshjindal) | [GitHub](https://github.com/divyanshjindal)
+> Connect with me: [LinkedIn](https://www.linkedin.com/in/devdivyanshjindal/) | [GitHub](https://github.com/DevDivyanshJindal)
 
 ---
 
