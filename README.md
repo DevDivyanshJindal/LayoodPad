@@ -1,4 +1,9 @@
 # 🌐 LayoodPad
+
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-powered-w-100x40.png" alt="Python Powered"/>
+</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-canvas-image.gif" width="100%"/>
 </p>
