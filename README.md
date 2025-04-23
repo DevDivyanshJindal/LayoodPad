@@ -1,5 +1,4 @@
 # 🌐 LayoodPad
-
 <p align="center">
   <img src="https://www.python.org/static/community_logos/python-powered-w-100x40.png" alt="Python Powered"/>
 </p>
