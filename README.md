@@ -69,21 +69,36 @@
 ## 🎥 Demo & Screenshots
 
 ### 🎬 Video Demo
-<div style="border: 3px solid #3b82f6; border-radius: 8px; padding: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <iframe width="100%" height="400" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" title="LayoodPad Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+    <img src="https://img.shields.io/badge/▶️ Watch Demo Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video" width="250"/>
+  </a>
+</p>
+
+<kbd>
+  <img src="https://user-images.githubusercontent.com/your-video-thumbnail.jpg" alt="LayoodPad Demo Video Thumbnail" width="100%" style="border: 5px solid #FF0000; border-radius: 10px;"/>
+</kbd>
 
 ### 📸 Screenshots
-<div style="display: flex; gap: 15px; margin-top: 20px;">
-  <img src="https://github.com/DevDivyanshJindal/LayoodPad/blob/main/LayoodPad%20Index.png" alt="LayoodPad Screenshot 1" style="border: 4px solid #3b82f6; border-radius: 8px; width: 48%; box-shadow: 0 4px 12px rgba(59, 130, 246, 0.2);" />
-  <img src="https://github.com/DevDivyanshJindal/LayoodPad/blob/main/LayoodPad%20Editor.png" alt="LayoodPad Screenshot 2" style="border: 4px solid #3b82f6; border-radius: 8px; width: 48%; box-shadow: 0 4px 12px rgba(59, 130, 246, 0.2);" />
-</div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <kbd><img src="https://github.com/DevDivyanshJindal/LayoodPad/blob/main/LayoodPad%20Index.png" alt="LayoodPad Screenshot 1" width="100%" /></kbd>
+      <p align="center"><em>Home Interface</em></p>
+    </td>
+    <td width="50%">
+      <kbd><img src="https://github.com/DevDivyanshJindal/LayoodPad/blob/main/LayoodPad%20Editor.png" alt="LayoodPad Screenshot 2" width="100%" /></kbd>
+      <p align="center"><em>Editor Interface</em></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 👨‍💻 Made By
 ### ✨ Divyansh Jindal — *Coder & Creator of LayoodPad* ✨
-> Connect with me: 
+> <h4>Connect with me:</h4>
 > 
 > <a href="https://www.linkedin.com/in/devdivyanshjindal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 > <a href="https://github.com/DevDivyanshJindal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
