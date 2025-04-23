@@ -1,7 +1,14 @@
 # 🌐 LayoodPad
 
-> ![canvas](https://user-images.githubusercontent.com/your-canvas-image.gif)
-> **Effortless real-time note sharing with encryption, code formatting, and zero clutter.**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-canvas-image.gif" width="100%"/>
+</p>
+
+<h3 align="center">
+  <b>Effortless real-time note sharing with encryption, code formatting, and zero clutter.</b>
+  <br>
+  <sub>by <strong>Divyansh Jindal</strong> — Coder & Creator of LayoodPad</sub>
+</h3>
 
 ---
 
