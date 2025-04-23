@@ -73,7 +73,7 @@
 ## 🎥 Demo & Screenshots
 
 ### 🎬 Demo Video
-<a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
+<a href="https://youtu.be/UrsmFxEIp5k&t=7567s" target="_blank">
   <img src="https://github.com/DevDivyanshJindal/LayoodPad/blob/main/demo-thumbnail.png" 
     alt="LayoodPad Demo Video" 
     style="border: 3px solid #FF0000; border-radius: 10px; width: 100%; max-width: 640px;" />
