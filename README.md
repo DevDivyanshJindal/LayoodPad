@@ -22,7 +22,23 @@
 | ⚡ Real-time Saving | Edits save instantly using AJAX — no refresh needed. |
 | 📦 No Word Limit | Unlimited space for writing or code. |
 | 📱 Mobile Friendly | Works on all devices and installable as PWA. |
-| 📎 Offline Friendly | Still works even with weak or no internet. |
+| 📌 Offline Friendly | Still works even with weak or no internet. |
+
+---
+
+## 📊 LayoodPad vs. Dontpad
+
+| Feature | LayoodPad | Dontpad |
+|--------|-----------|---------|
+| Real-time Sync | ✅ | ✅ |
+| Password Protection | ✅ (with encryption) | ❌ |
+| Code Mode with Line Numbers | ✅ | ❌ |
+| Zero Signup | ✅ | ✅ |
+| PWA Support | ✅ | ❌ |
+| Offline Support | ✅ | ❌ |
+| Mobile Optimized UI | ✅ | ❌ |
+| End-to-End Encryption | ✅ | ❌ |
+| AJAX Auto Save | ✅ | ❌ |
 
 ---
 
@@ -59,7 +75,7 @@
 
 ## 🎥 Demo & Screenshots
 
-### 🔁 Animated Demo
+### ♻️ Animated Demo
 
 <div style="border: 1px solid #ccc; padding: 5px;">
   <img src="https://your-demo-image-or-gif-link.com/demo.gif" alt="LayoodPad Demo" />
