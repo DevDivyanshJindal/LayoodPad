@@ -1,11 +1,9 @@
 # 🌐 LayoodPad
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-canvas-image.gif" width="100%"/>
 </p>
-
 <h3 align="center">
-  <b>Effortless real-time note sharing with encryption, code formatting, and zero clutter.</b>
+  <b><span class="animate-pulse">Effortless real-time note sharing with encryption, code formatting, and zero clutter.</span></b>
   <br>
   <sub>by <strong>Divyansh Jindal</strong> — Coder & Creator of LayoodPad</sub>
 </h3>
@@ -13,7 +11,6 @@
 ---
 
 ## ✨ Features Table
-
 | Feature | Description |
 |--------|-------------|
 | ✅ Instant Note Sharing | Go to `https://layoodpad.com/your-note-name` and start typing — no signup needed. |
@@ -27,7 +24,6 @@
 ---
 
 ## 📊 LayoodPad vs. Dontpad
-
 | Feature | LayoodPad | Dontpad |
 |--------|-----------|---------|
 | Real-time Sync | ✅ | ✅ |
@@ -43,7 +39,6 @@
 ---
 
 ## 🛠️ Built With
-
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -56,7 +51,6 @@
 ---
 
 ## 🎯 Why LayoodPad?
-
 - 🚀 **Blazing fast** note sharing for teams, developers, and thinkers.
 - 🧠 **Zero configuration** — just visit a URL and type.
 - 🔐 **End-to-end encryption** and password locking.
@@ -66,7 +60,6 @@
 ---
 
 ## 🚀 Getting Started
-
 1. Visit [`layoodpad.com`](https://layoodpad.com)
 2. Append your custom note path: `layoodpad.com/project-notes`
 3. Type away — and secure it with a password if needed
@@ -75,30 +68,28 @@
 
 ## 🎥 Demo & Screenshots
 
-### ♻️ Animated Demo
-
-<div style="border: 1px solid #ccc; padding: 5px;">
-  <img src="https://your-demo-image-or-gif-link.com/demo.gif" alt="LayoodPad Demo" />
+### 🎬 Video Demo
+<div style="border: 3px solid #3b82f6; border-radius: 8px; padding: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <iframe width="100%" height="400" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" title="LayoodPad Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### 📸 Screenshots
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/DevDivyanshJindal/LayoodPad/blob/main/LayoodPad%20Index.png" alt="LayoodPad Screenshot 1" style="border: 1px solid #ccc; width: 48%;" />
-  <img src="https://github.com/DevDivyanshJindal/LayoodPad/blob/main/LayoodPad%20Editor.png" alt="LayoodPad Screenshot 2" style="border: 1px solid #ccc; width: 48%;" />
+<div style="display: flex; gap: 15px; margin-top: 20px;">
+  <img src="https://github.com/DevDivyanshJindal/LayoodPad/blob/main/LayoodPad%20Index.png" alt="LayoodPad Screenshot 1" style="border: 4px solid #3b82f6; border-radius: 8px; width: 48%; box-shadow: 0 4px 12px rgba(59, 130, 246, 0.2);" />
+  <img src="https://github.com/DevDivyanshJindal/LayoodPad/blob/main/LayoodPad%20Editor.png" alt="LayoodPad Screenshot 2" style="border: 4px solid #3b82f6; border-radius: 8px; width: 48%; box-shadow: 0 4px 12px rgba(59, 130, 246, 0.2);" />
 </div>
 
 ---
 
 ## 👨‍💻 Made By
-
 ### ✨ Divyansh Jindal — *Coder & Creator of LayoodPad* ✨
-
-> Connect with me: [LinkedIn](https://www.linkedin.com/in/devdivyanshjindal/) | [GitHub](https://github.com/DevDivyanshJindal)
+> Connect with me: 
+> 
+> <a href="https://www.linkedin.com/in/devdivyanshjindal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+> <a href="https://github.com/DevDivyanshJindal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+> <a href="https://www.instagram.com/Divyansh_jindal9_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ---
 
 ## 📄 License
-
 MIT © 2025 Divyansh Jindal
-
