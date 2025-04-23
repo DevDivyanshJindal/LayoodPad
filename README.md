@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-canvas-image.gif" width="100%"/>
+  <img src="https://github.com/DevDivyanshJindal/LayoodPad/blob/main/LAYOODPAD.gif" width="100%"/>
 </p>
 <h3 align="center">
   <b><span class="animate-pulse">Effortless real-time note sharing with encryption, code formatting, and zero clutter.</span></b>
