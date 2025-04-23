@@ -4,31 +4,17 @@
 
 ---
 
-## ✨ Features
+## ✨ Features Table
 
-✅ **Instant Note Sharing**  
-Just go to `https://layoodpad.com/your-note-name` and start typing. Share the URL — no signup required!
-
-🔐 **Password Protection with Encryption**  
-Secure your note with a password — all content is encrypted for your safety.
-
-🧑‍💻 **Code Mode with Line Numbers**  
-Switch to Code Mode and feel like you're writing in a real IDE — complete with syntax highlighting and line numbers.
-
-⚡ **Real-time Saving (AJAX)**  
-Notes update instantly without page refresh.
-
-📦 **No Word Limit**  
-Type freely — no limitations on creativity or content size.
-
-📱 **Mobile Friendly & PWA**  
-Looks great on all screen sizes — installable on mobile like a native app.
-
-🎨 **Dark Mode + Clean UI**  
-Minimalist, premium design that’s easy on the eyes.
-
-📎 **Lightweight & Offline Friendly**  
-Built for speed and availability — even on flaky networks.
+| Feature | Description |
+|--------|-------------|
+| ✅ Instant Note Sharing | Go to `https://layoodpad.com/your-note-name` and start typing — no signup needed. |
+| 🔐 Password Protection | Secure your note with a password. Content is encrypted for safety. |
+| 🧑‍💻 Code Mode | Toggle code mode with line numbers — feels like a real IDE. |
+| ⚡ Real-time Saving | Edits save instantly using AJAX — no refresh needed. |
+| 📦 No Word Limit | Unlimited space for writing or code. |
+| 📱 Mobile Friendly | Works on all devices and installable as PWA. |
+| 📎 Offline Friendly | Still works even with weak or no internet. |
 
 ---
 
@@ -65,10 +51,18 @@ Built for speed and availability — even on flaky networks.
 
 ## 🎥 Demo & Screenshots
 
-https://your-demo-image-or-gif-link.com/demo.gif <!-- Replace with actual link -->
+### 🔁 Animated Demo
 
-![Screenshot Light](https://your-screenshot-light-mode-link.com/screenshot1.png)
-![Screenshot Dark](https://your-screenshot-dark-mode-link.com/screenshot2.png)
+<div style="border: 1px solid #ccc; padding: 5px;">
+  <img src="https://your-demo-image-or-gif-link.com/demo.gif" alt="LayoodPad Demo" />
+</div>
+
+### 📸 Screenshots
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://your-screenshot-light-mode-link.com/screenshot1.png" alt="LayoodPad Screenshot 1" style="border: 1px solid #ccc; width: 48%;" />
+  <img src="https://your-screenshot-dark-mode-link.com/screenshot2.png" alt="LayoodPad Screenshot 2" style="border: 1px solid #ccc; width: 48%;" />
+</div>
 
 ---
 
