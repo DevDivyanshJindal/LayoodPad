@@ -68,16 +68,12 @@
 
 ## 🎥 Demo & Screenshots
 
-### 🎬 Video Demo
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://img.shields.io/badge/▶️ Watch Demo Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video" width="250"/>
-  </a>
-</p>
-
-<kbd>
-  <img src="https://user-images.githubusercontent.com/your-video-thumbnail.jpg" alt="LayoodPad Demo Video Thumbnail" width="100%" style="border: 5px solid #FF0000; border-radius: 10px;"/>
-</kbd>
+### 🎬 Demo Video
+<a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
+  <img src="https://github.com/DevDivyanshJindal/LayoodPad/blob/main/demo-thumbnail.png" 
+    alt="LayoodPad Demo Video" 
+    style="border: 3px solid #FF0000; border-radius: 10px; width: 100%; max-width: 640px;" />
+</a>
 
 ### 📸 Screenshots
 
