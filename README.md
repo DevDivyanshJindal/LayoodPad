@@ -85,7 +85,7 @@
 
 <div style="display: flex; gap: 10px;">
   <img src="https://github.com/DevDivyanshJindal/LayoodPad/blob/main/LayoodPad%20Index.png" alt="LayoodPad Screenshot 1" style="border: 1px solid #ccc; width: 48%;" />
-  <img src="https://your-screenshot-dark-mode-link.com/screenshot2.png" alt="LayoodPad Screenshot 2" style="border: 1px solid #ccc; width: 48%;" />
+  <img src="https://github.com/DevDivyanshJindal/LayoodPad/blob/main/LayoodPad%20Editor.png" alt="LayoodPad Screenshot 2" style="border: 1px solid #ccc; width: 48%;" />
 </div>
 
 ---
